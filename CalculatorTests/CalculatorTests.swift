@@ -1,14 +1,8 @@
-//
-//  Assignment15Tests.swift
-//  Assignment15Tests
-//
-//  Created by Eman on 17/04/1444 AH.
-//
 
 import XCTest
-@testable import Assignment15
+@testable import Calculator
 
-final class Assignment15Tests: XCTestCase {
+final class CalculatorTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

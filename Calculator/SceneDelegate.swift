@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Assignment15
-//
-//  Created by Eman on 17/04/1444 AH.
-//
 
 import UIKit
 
